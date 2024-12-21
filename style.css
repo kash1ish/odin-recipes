@@ -1,0 +1,18 @@
+.main{
+    font-size:43px;
+    list-style:disc;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:purple;
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+body{
+    background-color: beige;
+}
+a{
+    color:plum;
+}
+a:hover{
+    color:purple;
+}
